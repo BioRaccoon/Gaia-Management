@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Mark Fight","characterIndex":0,"characterName":"Mark Walk","classId":9,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Mark","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mark","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Mark Fight","characterIndex":0,"characterName":"Mark Walk","classId":0,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Mark","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mark","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Alfred Fight","characterIndex":0,"characterName":"Alfred Walk","classId":9,"equips":[1,0,0,9,0],"faceIndex":0,"faceName":"Alfred","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alfred","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"John Fight","characterIndex":0,"characterName":"John Walk","classId":9,"equips":[31,0,65,5,0],"faceIndex":0,"faceName":"John","traits":[],"initialLevel":1,"maxLevel":99,"name":"John","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"John (Glasses) Fight","characterIndex":0,"characterName":"John (Glasses) Walk","classId":9,"equips":[31,0,0,5,0],"faceIndex":0,"faceName":"John (Glasses)","traits":[],"initialLevel":1,"maxLevel":99,"name":"John (Glasses)","nickname":"","note":"","profile":""},
