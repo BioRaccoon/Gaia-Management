@@ -2,6 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Prologue & First Work Day","order":2,"parentId":0,"scrollX":550.2222222222222,"scrollY":331.1111111111111},
 {"id":2,"expanded":false,"name":"Pre-Prologue","order":1,"parentId":0,"scrollX":550.2222222222222,"scrollY":331.1111111111111},
-{"id":3,"expanded":false,"name":"Gaia Island","order":4,"parentId":0,"scrollX":619,"scrollY":364.5},
-{"id":4,"expanded":true,"name":"Next Work Days","order":3,"parentId":0,"scrollX":550.2222222222222,"scrollY":331.1111111111111}
+{"id":3,"expanded":false,"name":"Gaia Island Map","order":4,"parentId":0,"scrollX":619,"scrollY":364.5},
+{"id":4,"expanded":true,"name":"Next Work Days","order":3,"parentId":0,"scrollX":550.2222222222222,"scrollY":331.1111111111111},
+{"id":5,"expanded":true,"name":"Endings","order":5,"parentId":0,"scrollX":550.2222222222222,"scrollY":331.1111111111111}
 ]
